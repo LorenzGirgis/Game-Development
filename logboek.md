@@ -2,6 +2,8 @@
 
 **Opmerking:** De game bleek te groot voor GitHub, daarom heb ik een nieuwe repository moeten aanmaken en de game naar OneDrive moeten verplaatsten. De toegang tot de OneDrive map is gedeeld met mevrouw Jacobs.
 
+[Game Development Repository](https://github.com/LorenzGirgis/Game-Development)
+
 ## Dag 1: Projectvoorbereiding
 **Datum:** 29-05-2024
 
@@ -97,7 +99,7 @@
 
 - **Aanpassingen:**
   4. **Levenssysteem:** Aantal levens aangepast van 5 naar 3 om de moeilijkheidsgraad te verhogen.
-  
+
 
 - **Resultaat:** De game is nu goedgekeurd door de tester en klaar voor de eindpresentatie.
 
