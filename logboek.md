@@ -69,3 +69,36 @@
   - Overdragen van de broncode aan mevrouw Jacobs door haar toegang te geven tot de GitHub repository.
   - Opmaken van het logboek en de documentatie voor de presentatie.
   - Oefenen van de presentatie en het demonstreren van de game.
+
+  ## Eerste Test
+**Datum:** 06-06-2024  
+**Tester:** Joel Boafo
+
+- **Bevindingen:**
+  1. **Bal kleurverandering:** Als de bal van kleur veranderde en zwart werd, was hij niet zichtbaar tegen de zwarte achtergrond.
+  2. **Geluidseffecten:** De audio lines deden het soms niet.
+  3. **Bal snelheid:** De bal ging te langzaam, waardoor het spel te moeilijk werd.
+
+- **Aanpassingen:**
+  1. **Bal kleurverandering:** Aangepast zodat de bal nooit zwart wordt tegen een zwarte achtergrond.
+  2. **Geluidseffecten:** Geluidsproblemen opgelost door de audio lines opnieuw te configureren en te testen.
+  3. **Bal snelheid:** Snelheid van de bal verhoogd om de moeilijkheidsgraad aan te passen.
+
+
+### Tweede Test
+**Datum:** 09-06-2024  
+**Tester:** Joel Boafo
+
+- **Bevindingen:**
+  1. **Bal kleurverandering:** De bal is nu altijd zichtbaar tegen de achtergrond.
+  2. **Geluidseffecten:** Alle geluidseffecten werken consistent.
+  3. **Bal snelheid:** De snelheid van de bal is nu goed en maakt het spel uitdagender zonder te moeilijk te zijn.
+  4. **Levenssysteem:** De tester vond 5 levens te veel, wat het spel te gemakkelijk maakt.
+
+- **Aanpassingen:**
+  4. **Levenssysteem:** Aantal levens aangepast van 5 naar 3 om de moeilijkheidsgraad te verhogen.
+  
+
+- **Resultaat:** De game is nu goedgekeurd door de tester en klaar voor de eindpresentatie.
+
+---
