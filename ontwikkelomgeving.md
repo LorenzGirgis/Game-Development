@@ -21,7 +21,7 @@
 
 - **Versiebeheer:**
   - **Platform:** Git
-  - **Repository Hosting:** GitHub (verplaatst naar Mediafire vanwege groottebeperkingen)
+  - **Repository Hosting:** GitHub (verplaatst naar OneDrive vanwege groottebeperkingen)
 
 - **IDE:**
   - **Editors:** Visual Studio en Visual Studio Code
@@ -40,7 +40,7 @@
 1. **Versiebeheer:**
    - Dagelijks committen en pushen van wijzigingen.
    - Gebruik van betekenisvolle commit messages.
-   - Oorspronkelijk op GitHub, nu op Mediafire gedeeld met mevrouw Jacobs.
+   - Oorspronkelijk op GitHub, nu op OneDrive gedeeld met mevrouw Jacobs.
 
 2. **Documentatie en Commentaar:**
    - Gedetailleerde commentaarregels in de code voor duidelijkheid.
@@ -55,4 +55,4 @@
 
 ## Toegang en Backup
 
-- **Repository:** De hoofdrepository is verplaatst naar Mediafire vanwege de grootte. Mevrouw Jacobs heeft toegang gekregen tot de map.
+- **Repository:** De repository is verplaatst naar OneDrive vanwege de grootte. Mevrouw Jacobs heeft toegang gekregen tot de map.
