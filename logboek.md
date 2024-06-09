@@ -1,5 +1,7 @@
 # Logboek Break Out Game Project
 
+**Opmerking:** De game bleek te groot voor GitHub, daarom heb ik een nieuwe repository moeten aanmaken en de game naar OneDrive moeten verplaatsten. De toegang tot de OneDrive map is gedeeld met mevrouw Jacobs.
+
 ## Dag 1: Projectvoorbereiding
 **Datum:** 29-05-2024
 
