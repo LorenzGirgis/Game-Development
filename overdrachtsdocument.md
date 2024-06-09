@@ -10,7 +10,7 @@ Een spelersobject dat de bal kaatst om de blokken te breken, en waarbij de spele
 
 Gameplay aanpassingen: Indien nodig kunnen de volgende aspecten van de game worden aangepast:
 
-Aantal levens van de speler (variabel in te stellen).
+Aantal levens van de speler ("int lives").
 Snelheid van de bal voor de moeilijkheidsgraad.
 Grafische aspecten, zoals kleuren en ontwerpen van blokken.
 Documentatie: Zorg ervoor dat je alle wijzigingen documenteert die je aanbrengt in de code. Dit helpt niet alleen bij het begrijpen van de bestaande functionaliteiten, maar ook bij het identificeren van mogelijke verbeteringen of bugs.

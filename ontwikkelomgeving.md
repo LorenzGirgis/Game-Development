@@ -3,7 +3,7 @@
 ## Hardware Specificaties
 
 - **Computer:**
-  - **Merk:** dynabook
+  - **Merk:** Dynabook
   - **Model:** Satellite pro L50-G-17Z
   - **Processor:** Intel Core i7-10510U
   - **RAM:** 16 GB
@@ -53,7 +53,7 @@
 4. **Structuur:**
    - Alle assets georganiseerd in mappen binnen het Unity-project (bijv. `Assets/Scripts`, `Assets/Scenes`, `Assets/Audio`, etc.).
 
-## Toegang en Backup
+## Toegang
 
 - **Repository:** De repository is verplaatst naar OneDrive vanwege de grootte. Mevrouw Jacobs heeft toegang gekregen tot de map.
 ---
