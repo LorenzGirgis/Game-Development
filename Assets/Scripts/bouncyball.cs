@@ -10,7 +10,7 @@ public class bouncyball : MonoBehaviour
     Rigidbody2D rb;
     public float maxspeed = 15f;
     int score = 0;
-    int lives = 3;
+    int lives = 2;
     public TextMeshProUGUI scoretext;
     public GameObject[] livesimage;
     public GameObject gameover;
