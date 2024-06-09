@@ -94,7 +94,7 @@ public class bouncyball : MonoBehaviour
             scoretext.text = score.ToString("00000");
             brickcount--;
             ballsprite = GetComponent<SpriteRenderer>();
-            ballsprite.color = UnityEngine.Random.ColorHSV();//change color of ball
+            ballsprite.color = UnityEngine.Random.ColorHSV(0f, 1f, 1f, 1f, 0.5f, 1f); // doesnt change the color of the ball to a dark color
             Blockbreacksound.pitch = Blockbreacksound.pitch - pitchadd;
             Blockbreacksound.Play();
             if( brickcount <= 0)
