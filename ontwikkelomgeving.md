@@ -25,8 +25,8 @@
 
 - **IDE:**
   - **Editors:** Visual Studio en Visual Studio Code
-  - **Versie:** 16.11.4
-  - **Extensions:** Visual Studio Tools for Unity
+  - **Versies:** 17.10.0 en 1.90.0
+  - **Extensions:** Visual Studio Tools for Unity en C# Dev Kit
 
 ## Unity Project Instellingen
 
