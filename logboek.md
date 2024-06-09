@@ -1,6 +1,6 @@
 # Logboek Break Out Game Project
 
-**Opmerking:** De game bleek te groot voor GitHub, daarom heb ik een nieuwe repository moeten aanmaken en de game naar OneDrive moeten verplaatsten. De toegang tot de OneDrive map is gedeeld met mevrouw Jacobs.
+**Opmerking:** De game bleek te groot voor GitHub, daarom heb ik de Assets in een nieuwe repository moeten aanmaken en de hele game naar OneDrive moeten verplaatsten. De toegang tot de OneDrive map is gedeeld met mevrouw Jacobs. In de repository zijn wel de belangerijkste dingen te vinden zoals de scripts folder.
 
 [Game Development Repository](https://github.com/LorenzGirgis/Game-Development)
 
@@ -72,9 +72,11 @@
   - Opmaken van het logboek en de documentatie voor de presentatie.
   - Oefenen van de presentatie en het demonstreren van de game.
 
-  ## Eerste Test
+## Eerste Test
 **Datum:** 06-06-2024  
-**Tester:** Joel Boafo
+**Tijd:** 13:15  
+**Testers:** Joel Boafo
+
 
 - **Bevindingen:**
   1. **Bal kleurverandering:** Als de bal van kleur veranderde en zwart werd, was hij niet zichtbaar tegen de zwarte achtergrond.
@@ -89,7 +91,9 @@
 
 ### Tweede Test
 **Datum:** 09-06-2024  
-**Tester:** Joel Boafo
+**Tijd:** 14:42  
+**Testers:** Joel Boafo en Ryan Sutrisno
+
 
 - **Bevindingen:**
   1. **Bal kleurverandering:** De bal is nu altijd zichtbaar tegen de achtergrond.

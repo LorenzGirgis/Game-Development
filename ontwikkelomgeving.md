@@ -21,7 +21,7 @@
 
 - **Versiebeheer:**
   - **Platform:** Git
-  - **Repository Hosting:** GitHub (verplaatst naar OneDrive vanwege groottebeperkingen)
+  - **Repository Hosting:** GitHub en OneDrive
 
 - **IDE:**
   - **Editors:** Visual Studio en Visual Studio Code
@@ -52,8 +52,4 @@
 
 4. **Structuur:**
    - Alle assets georganiseerd in mappen binnen het Unity-project (bijv. `Assets/Scripts`, `Assets/Scenes`, `Assets/Audio`, etc.).
-
-## Toegang
-
-- **Repository:** De repository is verplaatst naar OneDrive vanwege de grootte. Mevrouw Jacobs heeft toegang gekregen tot de map.
 ---
