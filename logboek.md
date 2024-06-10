@@ -62,6 +62,7 @@
   - Finaliseren van de game en verifiëren dat alle must-have functionaliteiten geïmplementeerd zijn.
   - Schrijven van een overdrachtsdocument voor toekomstige ontwikkelaars.
   - Voorbereiden van de presentatie voor het management team.
+  - Een afspraak inplannen met mevrouw Jacobs om de game feedback te geven
 
 
 ## Eindresultaat
