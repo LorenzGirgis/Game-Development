@@ -102,39 +102,36 @@ public class bouncyball : MonoBehaviour
     }
 
     // Called on collision
-    void OnCollisionEnter2D(Collision2D collision)
+   void OnCollisionEnter2D(Collision2D collision)
+{
+    if (collision.gameObject.CompareTag("B"))
     {
-        // Check if the ball hit a brick
-        if (collision.gameObject.CompareTag("B"))
+        Destroy(collision.gameObject);
+        score += 101;
+        scoretext.text = score.ToString("00000");
+        brickcount--;
+        ballsprite = GetComponent<SpriteRenderer>();
+        ballsprite.color = UnityEngine.Random.ColorHSV(0f, 1f, 1f, 1f, 0.5f, 1f); // doesn't change the color of the ball to a dark color
+        Blockbreacksound.pitch = Blockbreacksound.pitch - pitchadd;
+        Blockbreacksound.Play();
+        if (brickcount <= 0)
         {
-            // Destroy the brick and increase the score
-            Destroy(collision.gameObject);
-            score += 101;
-            scoretext.text = score.ToString("00000");
-            brickcount--;
+            Time.timeScale = 0;
+            W.SetActive(true);
+            Winscreen.Play();
+        }
 
-            // Change the color of the ball
-            ballsprite = GetComponent<SpriteRenderer>();
-            ballsprite.color = UnityEngine.Random.ColorHSV(0f, 1f, 1f, 1f, 0.5f, 1f); // Doesn't change the color of the ball to a dark color
-            Blockbreacksound.pitch = Blockbreacksound.pitch - pitchadd;
-            Blockbreacksound.Play();
+        // Call CheckBricksForPowerUp method from PowerUpManager script
+        powerUpManager.CheckBricksForPowerUp(brickcount);
 
-            // Check if all bricks are destroyed
-            if (brickcount <= 0)
-            {
-                // Win the game
-                Time.timeScale = 0;
-                W.SetActive(true);
-                Winscreen.Play();
-            }
-
-            // Activate the power-up every 5 bricks destroyed
-            if (score % 505 == 0)
-            {
-                powerUpManager.ActivatePowerUp();
-            }
+        // Activate ball size increase power-up at 10 bricks
+        if (brickcount % 10 == 0 && brickcount != 0)
+        {
+            powerUpManager.ActivateBallSizeIncrease();
         }
     }
+}
+
 
     // Game over function
     void Gameover()
