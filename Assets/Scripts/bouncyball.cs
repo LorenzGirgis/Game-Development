@@ -8,7 +8,7 @@ public class bouncyball : MonoBehaviour
 {
     public float minY = -5.5f;
     Rigidbody2D rb;
-    public float maxspeed = 15f;
+    public float maxspeed = 2000f;
     int score = 0;
     int lives = 2;
     public TextMeshProUGUI scoretext;
