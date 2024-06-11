@@ -6,6 +6,7 @@ public class PowerUpManager : MonoBehaviour
     public GameObject ball; // Reference to the ball GameObject
     public float powerUpDuration = 2f; // Duration of the power-up effect
     public float sizeIncreaseFactor = 2f; // Factor by which paddle size increases
+    public float speedIncreaseFactor = 2f; // Factor by which ball speed increases
 
     private bool isPowerUpActive = false; // Flag to track if power-up is active
 
@@ -45,6 +46,24 @@ public class PowerUpManager : MonoBehaviour
         Invoke("DeactivatePowerUp", powerUpDuration);
     }
 
+    // Method to activate the ball speed increase power-up
+    public void ActivateBallSpeedIncrease()
+    {
+        // If power-up is already active, return to prevent multiple activations
+        if (isPowerUpActive)
+            return;
+
+        // Increase ball speed
+        Rigidbody2D rb = ball.GetComponent<Rigidbody2D>();
+        rb.velocity *= speedIncreaseFactor;
+
+        // Set flag to indicate power-up is active
+        isPowerUpActive = true;
+
+        // Start a timer to deactivate the power-up after the duration
+        Invoke("DeactivatePowerUp", powerUpDuration);
+    }
+
     // Method to deactivate the power-up
     private void DeactivatePowerUp()
     {
@@ -53,6 +72,10 @@ public class PowerUpManager : MonoBehaviour
 
         // Reset ball size
         ball.transform.localScale /= sizeIncreaseFactor;
+
+        // Reset ball speed
+        Rigidbody2D rb = ball.GetComponent<Rigidbody2D>();
+        rb.velocity /= speedIncreaseFactor;
 
         // Reset flag to indicate power-up is not active
         isPowerUpActive = false;
