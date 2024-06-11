@@ -94,10 +94,9 @@ public class bouncyball : MonoBehaviour
 
         // Ensure the vertical speed of the ball is significant
         float minVerticalSpeed = 2f;
-        if (Mathf.Abs(rb.velocity.y) < minVerticalSpeed)
+       if (rb.velocity.magnitude > maxspeed)
         {
-            float newVerticalSpeed = Mathf.Sign(rb.velocity.y) * minVerticalSpeed;
-            rb.velocity = new Vector2(rb.velocity.x, newVerticalSpeed);
+            rb.velocity = Vector3.ClampMagnitude(rb.velocity, maxspeed);
         }
     }
 
