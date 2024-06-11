@@ -4,7 +4,7 @@
 
 [Game Development Repository](https://github.com/LorenzGirgis/Game-Development)
 
-[De hele game in OneDrive](https://github.com/LorenzGirgis/Game-Development)
+[De hele game in OneDrive](https://1drv.ms/f/s!AhOoH46JFhBXcBBMcjo1OUEuE18?e=NUO21p)
 
 
 ## Dag 1: Projectvoorbereiding
