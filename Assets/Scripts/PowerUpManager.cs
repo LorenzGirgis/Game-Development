@@ -3,7 +3,7 @@ using UnityEngine;
 public class PowerUpManager : MonoBehaviour
 {
     public GameObject paddle; // Reference to the paddle GameObject
-    public float powerUpDuration = 0.2f; // Duration of the power-up effect
+    public float powerUpDuration = 3f; // Duration of the power-up effect
     public float sizeIncreaseFactor = 2f; // Factor by which paddle size increases
 
     private bool isPowerUpActive = false; // Flag to track if power-up is active
