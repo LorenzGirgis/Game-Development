@@ -4,6 +4,9 @@
 
 [Game Development Repository](https://github.com/LorenzGirgis/Game-Development)
 
+[De hele game in OneDrive](https://github.com/LorenzGirgis/Game-Development)
+
+
 ## Dag 1: Projectvoorbereiding
 **Datum:** 29-05-2024
 
@@ -61,8 +64,16 @@
 - **Activiteiten:**
   - Finaliseren van de game en verifiëren dat alle must-have functionaliteiten geïmplementeerd zijn.
   - Schrijven van een overdrachtsdocument voor toekomstige ontwikkelaars.
-  - Voorbereiden van de presentatie voor het management team.
-  - Een afspraak inplannen met mevrouw Jacobs om de game feedback te geven
+  - Voorbereiden van de presentatie.
+  - Een afspraak inplannen met mevrouw Jacobs om de game design feedback te geven
+
+## Dag 8: Eindafwerking en Laaste puntjes op de i
+**Datum:** 11-06-2024
+
+- **Activiteiten:**
+  - Maken van een powerpoint.
+  - Voorbereiden van de presentatie.
+  - Feedback gekregen van mevrouw Jacobs over de game design dit is ook gelijk verbeterd.
 
 
 ## Eindresultaat
@@ -104,6 +115,21 @@
 
 - **Aanpassingen:**
   4. **Levenssysteem:** Aantal levens aangepast van 5 naar 3 om de moeilijkheidsgraad te verhogen.
+
+### Derde Test
+**Datum:** 11-06-2024  
+**Tijd:** 15:42  
+**Testers:** Ryan Sutrisno
+
+
+- **Bevindingen:**
+  1. **De balk snelheid:** De balk was iets te langzaam waardoor het te moeilijk werd.
+  2. **Unieke feature:** De tester vond een powerup na 5x de bricks te hitten een goede bevinding.
+
+- **Aanpassingen:**
+  1. **De balk snelheid:** De balk is nu wat sneller
+  2. **Unieke feature:** De powerup zit nu in de game de powerup houd in dat als je 5x de bricks hit dat je balk wat langer word voor 3 seconden.
+
 
 
 - **Resultaat:** De game is nu goedgekeurd door de tester en klaar voor de eindpresentatie.
