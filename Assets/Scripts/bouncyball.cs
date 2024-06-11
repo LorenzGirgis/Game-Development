@@ -28,6 +28,7 @@ public class bouncyball : MonoBehaviour
     public AudioSource Winscreen;
     public AudioSource Gameoverscreen;
     public SpriteRenderer ballsprite;
+    public PowerUpManager powerUpManager;
     private bool isPaused = false;
 
     void Start()
@@ -104,6 +105,12 @@ public class bouncyball : MonoBehaviour
                 Winscreen.Play();
 
             }
+            
+            if (++score % 5 == 0)
+            {
+                powerUpManager.ActivatePowerUp();
+            }
+
 
         }
     }
