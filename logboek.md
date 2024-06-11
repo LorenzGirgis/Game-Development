@@ -79,7 +79,7 @@
 **Datum:** 11-06-2024
 
 - **Activiteiten:**
-  - Tweede klant gesprek met feedback over de power-ups die moeten wat unieker en niet te simpel.
+  - Tweede klant gesprek met feedback over de power-ups die moeten wat unieker en niet te simpel. Dus heb een unieke feature toegevoegd dat als je 5 bricks hit je balk breder word en bij 10 bricks je bal groter word.
   - Overdragen van de broncode aan mevrouw Jacobs door haar toegang te geven tot de GitHub repository en de OneDrive.
   - Opmaken van het logboek en de documentatie voor de presentatie.
   - Oefenen van de presentatie en het demonstreren van de game.
