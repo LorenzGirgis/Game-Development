@@ -73,7 +73,7 @@
 - **Activiteiten:**
   - Maken van een powerpoint.
   - Voorbereiden van de presentatie.
-  - Feedback gekregen van mevrouw Jacobs over de game design dit is ook gelijk verbeterd.
+  - Feedback gekregen van mevrouw Jacobs over de game design dit is ook gelijk verbeterd. Feedback was een unieke feature.
 
 
 ## Eindresultaat
