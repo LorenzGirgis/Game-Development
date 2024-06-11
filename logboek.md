@@ -125,10 +125,12 @@
 - **Bevindingen:**
   1. **De balk snelheid:** De balk was iets te langzaam waardoor het te moeilijk werd.
   2. **Unieke feature:** De tester vond een powerup na 5x de bricks te hitten een goede bevinding.
+  3. **Vastlopen Bal** De tester vond een bug dat de bal soms horizontaal vastliep omdat hij steeds heen en weer ging.
 
 - **Aanpassingen:**
   1. **De balk snelheid:** De balk is nu wat sneller
   2. **Unieke feature:** De powerup zit nu in de game de powerup houd in dat als je 5x de bricks hit dat je balk wat langer word voor 3 seconden.
+    3. **Vastlopen Bal** Om te zorgen dat de bal niet horizontaal blijft stuiteren, moeten we ervoor zorgen dat de bal altijd een bepaalde horizontaal snelheid heeft. 
 
 
 
