@@ -65,14 +65,14 @@
   - Finaliseren van de game en verifiëren dat alle must-have functionaliteiten geïmplementeerd zijn.
   - Schrijven van een overdrachtsdocument voor toekomstige ontwikkelaars.
   - Maken van een powerpoint.
-  - Een afspraak inplannen met mevrouw Jacobs om de game design feedback te geven
+  - Een afspraak inplannen met mevrouw Jacobs om de game design feedback te geven.
 
 ## Dag 8: Eindafwerking
 **Datum:** 10-06-2024
 
 - **Activiteiten:**
   - Voorbereiden van de presentatie.
-  - Feedback gekregen van mevrouw Jacobs over de game design dit is ook gelijk verbeterd. Feedback was een unieke feature maken want de game was te simpel.
+  - Eerste gesrek deedback gekregen van mevrouw Jacobs over de game design dit is ook gelijk verbeterd. Feedback was een unieke feature maken want de game was te simpel. Ik ga power-ups toevoegen als unieke feature.
 
 
 ## Dag 9: Tweede gesprek en Laaste puntjes op de i
@@ -83,7 +83,7 @@
   - Overdragen van de broncode aan mevrouw Jacobs door haar toegang te geven tot de GitHub repository en de OneDrive.
   - Opmaken van het logboek en de documentatie voor de presentatie.
   - Oefenen van de presentatie en het demonstreren van de game.
-  - Alles ingeleverd
+  - Alles ingeleverd.
 
 ## Dag 10: Eindresultaat
 **Datum:** 12-06-2024
@@ -135,7 +135,7 @@
   3. **Vastlopen Bal** De tester vond een bug dat de bal soms horizontaal vastliep omdat hij steeds heen en weer ging.
 
 - **Aanpassingen:**
-  1. **De balk snelheid:** De balk is nu wat sneller
+  1. **De balk snelheid:** De balk is nu wat sneller.
   2. **Unieke feature:** De powerup zit nu in de game de powerup houd in dat als je 5x de bricks hit dat je balk wat langer word voor 3 seconden.
     3. **Vastlopen Bal** Om te zorgen dat de bal niet horizontaal blijft stuiteren, moeten we ervoor zorgen dat de bal altijd een bepaalde horizontaal snelheid heeft. 
 
