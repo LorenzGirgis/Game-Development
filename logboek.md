@@ -80,6 +80,7 @@
 **Datum:** 11-06-2024
 
 - **Activiteiten:**
+  - Tweede klant gesprek met feedback over de power-ups die moeten wat unieker.
   - Overdragen van de broncode aan mevrouw Jacobs door haar toegang te geven tot de GitHub repository.
   - Opmaken van het logboek en de documentatie voor de presentatie.
   - Oefenen van de presentatie en het demonstreren van de game.
