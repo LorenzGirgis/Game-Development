@@ -5,30 +5,30 @@ using TMPro;
 
 public class bouncyball : MonoBehaviour
 {
-    public float minY = -5.5f;
-    Rigidbody2D rb;
-    public float maxspeed = 15f;
-    int score = 0;
-    int lives = 2;
-    public TextMeshProUGUI scoretext;
-    public GameObject[] livesimage;
-    public GameObject gameover;
-    public GameObject W;
-    public GameObject death_screen;
-    public GameObject pause_screen;
-    public float bouncespeed = 10f;
-    public float startpotionX;
-    public float startpotionY;
-    public float startpotionZ;
-    int brickcount;
-    public float pitchadd;
-    public AudioSource Blockbreacksound;
-    public AudioSource death;
-    public AudioSource Winscreen;
-    public AudioSource Gameoverscreen;
-    public SpriteRenderer ballsprite;
-    private bool isPaused = false;
-    public PowerUpManager powerUpManager;
+public float minY = -5.5f; // Minimum Y position where the ball is considered out of bounds
+Rigidbody2D rb; // Reference to the Rigidbody2D component of the ball
+public float maxspeed = 15f; // Maximum speed the ball can travel
+int score = 0; // Current player score
+int lives = 2; // Remaining lives of the player
+public TextMeshProUGUI scoretext; // TextMeshProUGUI object to display the score
+public GameObject[] livesimage; // Array of GameObjects representing player lives
+public GameObject gameover; // GameObject representing the game over screen
+public GameObject W; // GameObject representing the win screen
+public GameObject death_screen; // GameObject representing the death screen
+public GameObject pause_screen; // GameObject representing the pause screen
+public float bouncespeed = 10f; // Speed at which the ball bounces
+public float startpotionX; // Initial X position of the ball
+public float startpotionY; // Initial Y position of the ball
+public float startpotionZ; // Initial Z position of the ball
+int brickcount; // Number of bricks in the level
+public float pitchadd; // Amount by which pitch is added to the block break sound
+public AudioSource Blockbreacksound; // AudioSource for block break sound
+public AudioSource death; // AudioSource for death sound
+public AudioSource Winscreen; // AudioSource for win screen sound
+public AudioSource Gameoverscreen; // AudioSource for game over screen sound
+public SpriteRenderer ballsprite; // SpriteRenderer component of the ball
+private bool isPaused = false; // Flag to indicate if the game is paused
+public PowerUpManager powerUpManager; // Reference to the PowerUpManager script
 
  void Start()
     {
