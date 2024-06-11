@@ -59,32 +59,38 @@
 
 
 ## Dag 7: Eindafwerking en Documentatie
-**Datum:** 10-06-2024
+**Datum:** 09-06-2024
 
 - **Activiteiten:**
   - Finaliseren van de game en verifiëren dat alle must-have functionaliteiten geïmplementeerd zijn.
   - Schrijven van een overdrachtsdocument voor toekomstige ontwikkelaars.
-  - Voorbereiden van de presentatie.
+  - Maken van een powerpoint.
   - Een afspraak inplannen met mevrouw Jacobs om de game design feedback te geven
 
-## Dag 8: Eindafwerking en Laaste puntjes op de i
-**Datum:** 11-06-2024
+## Dag 8: Eindafwerking
+**Datum:** 10-06-2024
 
 - **Activiteiten:**
-  - Maken van een powerpoint.
   - Voorbereiden van de presentatie.
-  - Feedback gekregen van mevrouw Jacobs over de game design dit is ook gelijk verbeterd. Feedback was een unieke feature.
+  - Feedback gekregen van mevrouw Jacobs over de game design dit is ook gelijk verbeterd. Feedback was een unieke feature maken want de game was te simpel.
 
 
-## Eindresultaat
+## Dag 9: Tweede gesprek en Laaste puntjes op de i
 **Datum:** 11-06-2024
 
 - **Activiteiten:**
-  - Tweede klant gesprek met feedback over de power-ups die moeten wat unieker.
-  - Overdragen van de broncode aan mevrouw Jacobs door haar toegang te geven tot de GitHub repository.
+  - Tweede klant gesprek met feedback over de power-ups die moeten wat unieker en niet te simpel.
+  - Overdragen van de broncode aan mevrouw Jacobs door haar toegang te geven tot de GitHub repository en de OneDrive.
   - Opmaken van het logboek en de documentatie voor de presentatie.
   - Oefenen van de presentatie en het demonstreren van de game.
+  - Alles ingeleverd
 
+## Dag 10: Eindresultaat
+**Datum:** 12-06-2024
+
+- **Activiteiten:**
+  - Presentatie gegeven
+# Testen
 ## Eerste Test
 **Datum:** 06-06-2024  
 **Tijd:** 13:15  
