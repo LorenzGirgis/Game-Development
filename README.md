@@ -27,7 +27,7 @@ Welkom bij het Game-Development project! Dit project betreft de ontwikkeling van
 ## Installatie en Gebruik
 
 1. **Cloning het project:**
-   - Clone de repository van [OneDrive](https://1drv.ms/f/s!AhOoH46JFhBXcBBMcjo1OUEuE18?e=NUO21p) naar je lokale machine.
+   - Clone de repository van [Break Out Game](https://www.mediafire.com/file/iliwj37gfqd0p2u/break_out_untiy_project.zip/file) naar je lokale machine.
 
 2. **Ontwikkelomgeving instellen:**
    - Open het project in Unity.
